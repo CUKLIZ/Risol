@@ -908,7 +908,7 @@ body.dark-theme {
     width: 450px;
   }
 
-  .popular-container {
+  /* .popular-container {
     grid-template-columns: repeat(3, 20px);
     column-gap: 3.5rem;
     padding-block: 6rem 4rem;
@@ -924,7 +924,7 @@ body.dark-theme {
 
   .popular-button {
     bottom: 2rem;
-  }
+  } */
 
   .recently-container {
     grid-template-columns: 350px 480px;
